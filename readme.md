@@ -10,12 +10,12 @@ This is a part of a dataset that can be found [here](https://www.kaggle.com/data
 
 ## Summary of Findings
 
-**I found a strong relationship between the winner of the game and the victory status with the difference in rating between players and number of turns which yields, in my exploration to several findings:**<br>
+**I found a strong relationship between the winner of the game and the victory status with the difference in rating between players and number of turns which yields, in my exploration, to several findings:**<br>
 
 
 * Most of the games are played between players of the same or close rating and lasted until about 40 to 70 turns.<br>
 * Players, as white or as black, are winning more when their ratings are higher than their opponents compared to when they have less rating than their opponents.<br>
-* Games that are played with high difference in rating in the winner's favor tend to ensd in less number of turns than those with lower difference in rating.<br>
+* Games that are played with high difference in rating in the winner's favor tend to end in less number of turns than those with lower difference in rating.<br>
 * There are more players as black winning the game with high number of turns specially when the rating difference is small.<br>
 
 
