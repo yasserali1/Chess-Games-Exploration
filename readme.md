@@ -1,5 +1,4 @@
 # Chess Games Exploration (Lichess)
-## by Yasser Ali
 
 
 ## Dataset
