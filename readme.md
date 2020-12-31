@@ -11,7 +11,7 @@ opening codes, game rating, number of turns, and who wins each game and how he/s
 
 ## Summary of Findings
 
-**I found a strong relationship between the winner of the game and the victory status with the difference in rating between players and number of turns which yields, in my exploration, to several findings:**<br>
+**I found that both difference in rating between players and number of turns in a game play important role in deciding the winner and the final game result which yielded, in my exploration, to several findings:**<br>
 
 
 * Most of the games are played between players of the same or close rating and lasted until about 40 to 70 turns.<br>
